@@ -36,3 +36,5 @@ curl --upload-file target/javaee7-simple-sample.war "http://admin:admin@192.168.
 
 Testing Gitpull
 
+Pipeline created, letäs observe the trigger and pipeline function 
+
