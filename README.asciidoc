@@ -34,3 +34,5 @@ mvn deploy
 
 curl --upload-file target/javaee7-simple-sample.war "http://admin:admin@192.168.33.30:8080/manager/text/deploy?path=/dev"
 
+Testing Gitpull
+
